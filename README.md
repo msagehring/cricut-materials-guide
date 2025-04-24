@@ -2,6 +2,12 @@
 
 A mobile-friendly web app to help you search, filter, and explore Cricut-compatible materials with ease.
 
+## 🔗 Quick Access (Scan Me!)
+
+![QR Code](./cricut_materials_guide_qr.png)
+
+Or visit: [https://yourusername.github.io/cricut-materials-guide](https://yourusername.github.io/cricut-materials-guide)
+
 ## 🌟 Features
 
 - 🔍 Search by material name
