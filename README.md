@@ -16,10 +16,12 @@ Or visit: [https://yourusername.github.io/cricut-materials-guide](https://yourus
 - 🔗 Tap for tutorial links directly from each material card
 - 📱 Optimized for mobile — Add to your phone's home screen!
 
-## 🚀 Live Demo
+## 📂 Excel Reference
 
-> Your site will be live at:  
-**https://msagehring.github.io/cricut-materials-guide**
+The top 25 Cricut materials with cut settings, usage, and links are also available in:
+
+📥 [Top25_Cricut_Materials_Enhanced_Updated.xlsx](./Top25_Cricut_Materials_Enhanced_Updated.xlsx)
+
 
 ## 📁 Files Included
 
