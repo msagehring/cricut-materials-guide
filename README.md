@@ -1,6 +1,6 @@
 # Cricut Materials Guide 🧵✨
 
-A mobile-friendly web app to help you search, filter, and explore Cricut-compatible materials with ease.
+A mobile-friendly web app to help you search, filter, and explore Cricut-compatible materials with ease. Currently conains the top 25 materials used by Cricut users.
 
 ## 🔗 Quick Access (Scan Me!)
 
