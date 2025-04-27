@@ -6,7 +6,7 @@ A mobile-friendly web app to help you search, filter, and explore Cricut-compati
 
 ![QR Code](./cricut_materials_guide_qr.png)
 
-Or visit: [https://yourusername.github.io/cricut-materials-guide](https://yourusername.github.io/cricut-materials-guide)
+Or visit: [https://yourusername.github.io/cricut-materials-guide](https://msagerhing.github.io/cricut-materials-guide)
 
 ## 🌟 Features
 
